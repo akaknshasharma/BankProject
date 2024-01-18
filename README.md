@@ -18,9 +18,9 @@ BI_Bank_Project.pbix: Power BI file for interactive data visualization and analy
 BI Bank Project Problem Statement.pptx: Presentation detailing the problem statement and objectives.
 Data Analysis
 The project leverages the Home Loans Dataset to
->Bank's loan distribution and performance.
->Identify trends in customer behavior and loan application patterns.
->Target high-value loan applicants to optimize profits.
+1. Bank's loan distribution and performance.
+2. Identify trends in customer behavior and loan application patterns.
+3. Target high-value loan applicants to optimize profits.
 
 **Tools**
 Power BI: Used for creating dynamic and interactive data visualizations.
