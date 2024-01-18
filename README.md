@@ -4,9 +4,9 @@ The BI Bank Project aims to enhance the bank's ability to track details across b
 **Problem Statement**
 The bank is facing difficulty in keeping track of these details from all its branches. It is also not able to understand how its business is doing and identify the target areas that it should focus on to leverage its profits.
 Essentially
->Understand how its business is doing so far
->Analyze the patterns/behaviour of customers applying for loans and
->Identify the target customers applying for loans greater than ₹10 lakh to maximize net profit
+1. Understand how its business is doing so far
+2. Analyze the patterns/behaviour of customers applying for loans and
+3. dentify the target customers applying for loans greater than ₹10 lakh to maximize net profit
 
 **Objectives**
 Business Analysis: Understand current business performance.
